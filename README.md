@@ -14,5 +14,6 @@ Tweet photos & updates using the hashtag [#nodeschool-budapest](https://twitter.
 ## Mentors
 If you have been or are mentoring at an event, please add yourself to [mentors.md](https://github.com/nodeschool/budapest/blob/master/mentors.md)
 
-## Catering
-If you have any catering ideas, or can provide catering to this event, please add yourself to [catering.md](https://github.com/nodeschool/budapest/blob/master/catering.md)
+## Post-mortem of the very first event
+
+[NodeSchool Rocks Hungary](https://medium.com/javascript-and-the-server/4c17b07af319)
