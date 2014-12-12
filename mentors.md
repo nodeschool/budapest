@@ -1,1 +1,2 @@
 - [Gergely Nemeth](http://twitter.com/nthgergo)
+- [Tamas Kokeny](http://twitter.com/EggDice)
